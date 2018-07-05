@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name='viewport' content='width=device-width'/>
+    <title>Hexagons</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="/javascripts/three.min.js"></script>
+    <script src="/javascripts/detector.js"></script>
+  	<script src="/javascripts/orbitControls.js"></script>
+    <script src="/javascripts/heap.js"></script>
+    <script src="/javascripts/main.js"></script>
+  </head>
+  <body>
+    <div id="canvas-wrapper"></div>
+
+    <div id="menu">
+      <p>tile: <span id="tileId">0 - 0</span></p>
+
+      Actions: <select id="dropdown" name="actions">
+        <option value="none">none</option>
+        <option value="pathfinding">pathfinding</option>
+        <option value="neighbors">neighbors</option>
+        <option value="reach">reach</option>
+        <option value="lineDraw">linedraw</option>
+        <option value="intersect">intersect</option>
+      </select>
+
+    </div>
+
+    <script src="/javascripts/scene.js"></script>
+  </body>
+</html>
