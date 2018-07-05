@@ -6,7 +6,7 @@ import { Pathfinding } from './Pathfinding.js'
 class Main {
 
   constructor () {
-
+alert("test");
     Static.construct();
     this.helpers();
     this.hexMap = new HexMap();
