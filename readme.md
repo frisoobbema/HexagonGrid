@@ -35,5 +35,16 @@ Or to bundle once:
 npm run-script build
 ```
 
+I gathered lots of information about hexagon grid from https://www.redblobgames.com/grids/hexagons/,  :)
 
-I gathered lots of information about hexagon grid from https://www.redblobgames.com/grids/hexagons/, Thanks :)
+### Pathfinding
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image1.jpg?raw=true)
+
+### Reach
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image2.jpg?raw=true)
+
+### Intersect
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image3.jpg?raw=true)
