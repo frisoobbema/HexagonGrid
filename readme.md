@@ -39,12 +39,12 @@ I gathered lots of information about hexagon grid from https://www.redblobgames.
 
 ### Pathfinding
 
-![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image1.jpg?raw=true)
+![pathfinding](https://github.com/frisoobbema/HexagonGrid/blob/master/images/1.JPG?raw=true)
 
 ### Reach
 
-![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image2.jpg?raw=true)
+![reach](https://github.com/frisoobbema/HexagonGrid/blob/master/images/2.JPG?raw=true)
 
 ### Intersect
 
-![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/images/image3.jpg?raw=true)
+![intersect](https://github.com/frisoobbema/HexagonGrid/blob/master/images/3.JPG?raw=true)
